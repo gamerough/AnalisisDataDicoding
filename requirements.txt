@@ -1,0 +1,6 @@
+altair==4.1.0
+streamlit
+seaborn
+pandas
+matplotlib.pyplot
+matplotlib.ticker
