@@ -7,11 +7,11 @@
   
 Repository ini untuk tugas proyek akhir analisis data dengan python pada platform dicoding
 
-##Dashboard Streamlit
-###Akses streamlit secara online
+## Dashboard Streamlit
+### Akses streamlit secara online
 Dashboard streamlit dapat diakses pada link: https://gameroughadd.streamlit.app/
 
-###Menjalankan streamlit secara lokal
+### Menjalankan streamlit secara lokal
 Install terlebih dahulu requirements yang diperlukan.
 ```
 pip install streamlit seaborn pandas matplotlib
